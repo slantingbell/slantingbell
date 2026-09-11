@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 个人介绍
 
-<!--
-**slantingbell/slantingbell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Hello! 我是salntingbell.
+> 喜欢画画以及看小说，我为幻想的世界所着迷。
+> 虽然我是计算机专业的，但我本人其实对计算机技术并没有什么浓厚的兴趣，只是刚好进入这个专业顺势学点谋生手段。
+> 本命爱好大概是画画，虽然没什么天赋画的不如ai，但并不妨碍我喜欢画画，我想我愿意为它奉献一生，喜欢这种东西本就是说不清道不明的。
+>
+> 希望所有人自己去感受世界的一切，放下偏见，而不是道听途说，随波逐流
+---
+## 📊 成果展示
+<img width="288" height="512" alt="练习9 1" src="https://github.com/user-attachments/assets/7daf65b5-5611-405d-b7e0-596866d2fbbc" />
 
-Here are some ideas to get you started:
+近期最满意的一张速写
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="289" height="436" alt="插画8" src="https://github.com/user-attachments/assets/c3e81c43-83e2-466b-840a-4776f705eee0" />
+
+近期最满意的一张临摹，原作是kieed
+
+> 你问我为什么要在github展示跟代码完全不搭边的东西，没办法，这就是热爱，比起代码，我更爱画画，代码是生存，画画是生活
+
+# 技能与自我评估
+## 已掌握技能
+- 基于python的web前后端搭建以及爬虫
+- 基于hadoop的saprk,mapreduce,Hbase的基础运用
+- 基于python的机器学习基本运用
+- 编程语言java,python,c,c++都会一点
+- 深度学习基础原理与少许框架
+## 感兴趣的技术方向
+-无，我也不知道自己喜欢啥，我是属于干一行爱一行，目前导师说学啥我就学啥
+## 最希望学习那些知识
+-无，目前导师说学啥我就学啥
+# 未来规划
+## 总方向
+第一目标是保研本校，第二目标是本科毕业即工作
+理由：本人有点厌倦考试和学习了，特别是大学教育与社会脱轨的现在，明知学了没用还得学，让我感觉很空虚。但是我的绩点又还可以，在保研名额之内，本着来都来了，保持一下水平保个研因该问题不大，但是大三也有小概率绩点爆炸导致保研失败，于是有了第二目标毕业即工作。本人对金钱没啥需求，属于够活就行，所以对工作薪资的要求也不高，如果毕业能从事本专业相关工作也不错，不能就换行呗。
+## 规划
+|阶段|目标|
+|---|---|
+|大三上|顺着专业课学习相关技术，加入实验室为科研打下基础并提升代码实验能力，并且摸索确定自己的主要技术学习方向|
+|大三下|如果能保研，就继续保研，在实验室提升科研能力，不能就专心学习技术，准备大三暑假的学习|
+|大四|保研->钻心搞科研，争取发论文/就业->专心学技术，攒实习经历|
+
