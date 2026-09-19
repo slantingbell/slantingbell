@@ -8,13 +8,13 @@
 > 希望所有人自己去感受世界的一切，放下偏见，而不是道听途说，随波逐流
 ---
 ## 📊 成果展示
-<img width="288" height="512" alt="练习9 1" src="https://github.com/user-attachments/assets/7daf65b5-5611-405d-b7e0-596866d2fbbc" />
+<img width="288" height="512" alt="插画8" src="https://github.com/user-attachments/assets/f1f72951-83c1-4aab-9c2a-fcfee691424a" />
 
-近期最满意的一张速写
+近期最满意的一张临摹
 
-<img width="289" height="436" alt="插画8" src="https://github.com/user-attachments/assets/c3e81c43-83e2-466b-840a-4776f705eee0" />
+<img width="288" height="512" alt="练习9 1" src="https://github.com/user-attachments/assets/acc82508-7297-4fe8-b3ca-1f0fa9119568" />
 
-近期最满意的一张临摹，原作是kieed
+近期最满意的一张速写，原作是kieed
 
 > 你问我为什么要在github展示跟代码完全不搭边的东西，没办法，这就是热爱，比起代码，我更爱画画，代码是生存，画画是生活
 
