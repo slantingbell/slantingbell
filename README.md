@@ -10,11 +10,11 @@
 ## 📊 成果展示
 <img width="288" height="434" alt="插画8" src="https://github.com/user-attachments/assets/1f2a6927-4f44-4b3b-b830-9629a4b31848" />
 
-近期最满意的一张临摹
+近期最满意的一张临摹，，原作是kieed
 
 <img width="288" height="512" alt="练习9 1" src="https://github.com/user-attachments/assets/8a6c4dac-4d73-4f05-9b1c-9b8e808a573a" />
 
-近期最满意的一张速写，原作是kieed
+近期最满意的一张速写
 
 > 你问我为什么要在github展示跟代码完全不搭边的东西，没办法，这就是热爱，比起代码，我更爱画画，代码是生存，画画是生活
 
