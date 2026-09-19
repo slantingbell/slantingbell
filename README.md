@@ -8,11 +8,11 @@
 > 希望所有人自己去感受世界的一切，放下偏见，而不是道听途说，随波逐流
 ---
 ## 📊 成果展示
-<img width="288" height="512" alt="插画8" src="https://github.com/user-attachments/assets/f1f72951-83c1-4aab-9c2a-fcfee691424a" />
+<img width="288" height="434" alt="插画8" src="https://github.com/user-attachments/assets/1f2a6927-4f44-4b3b-b830-9629a4b31848" />
 
 近期最满意的一张临摹
 
-<img width="288" height="512" alt="练习9 1" src="https://github.com/user-attachments/assets/acc82508-7297-4fe8-b3ca-1f0fa9119568" />
+<img width="288" height="512" alt="练习9 1" src="https://github.com/user-attachments/assets/8a6c4dac-4d73-4f05-9b1c-9b8e808a573a" />
 
 近期最满意的一张速写，原作是kieed
 
